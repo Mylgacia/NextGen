@@ -1,0 +1,2261 @@
+fileFormatVersion: 2
+guid: bbd8c1eeaf753dd4e8fbdb94843dab2b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a56abc5f561a41bf6443c734e8e02
+      internalID: -1330924550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21a71274b957d499d117f1766ef298
+      internalID: -1372107142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459048412f633b4984325ddff017aa5
+      internalID: 1517048974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc698cee13005c34395f8eadb4ef95ef
+      internalID: 1855031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091389af5ed87fe449f4c7e7687f1bac
+      internalID: 111746279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984803ac4a489e4784f58aa1c8797b9
+      internalID: 990173498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ae8ff69a624349bbddcc49d8dad78
+      internalID: -1895796859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78142dfb0191b479ebd14dc8267e74
+      internalID: -1189137893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a658f14544b3740a0b8efa0cb12b3a
+      internalID: 863365928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b27901c35b2d4384759b150b1ce7a
+      internalID: -621851390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422bd8dda28fc5f4297e8cff4d278ae5
+      internalID: 318659120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5589cb5d4977884297c8aafd2541cef
+      internalID: 992807136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e55f6293696934e946d63a8113058b
+      internalID: -806220644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeca4c56b84aa74fb6e7783c603a049
+      internalID: -161154594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce434d9b8642c64e827174d29f96d06
+      internalID: 905951563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23f740009e5094b89cddc724ce145e
+      internalID: -2066057134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534d8d75918109449bda81608b496e3
+      internalID: 781707222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad6185dbfc23c94ca3f99829d6ea411
+      internalID: 1131084945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c7b315faeef546be25975e2320d46
+      internalID: -885816715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead566e238b9ac44ab066cc9e1aec1a
+      internalID: -761174183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede04136354d7c4783f31fc97c4b149
+      internalID: 1402629469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119b63b96e7cff4b85aed539e832886
+      internalID: -209381440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35e0c303eb8364ea4903697394b8c9
+      internalID: 1798857102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c66efd0baef7041b2c9a92576e2a9c
+      internalID: -897802011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d25dae781905b439c240e744e42b05
+      internalID: 404243531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f0e83087f5e1046bfeb21edb793632
+      internalID: -1350912123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42c0d2d580915429acd2af2fc75e06
+      internalID: -2091878473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4a2afef0dff241a39713af6ef4c22
+      internalID: -2078527311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74cc52ec2663f4aa4e2a19d39ae2b4
+      internalID: 586424407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d5119c1a564e4c8cf8fb127ca7465
+      internalID: 599333154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72880f6f046da14da7dcf0585014c3b
+      internalID: 316103232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c12ea26dea59429a1d48092ccec5c
+      internalID: -1534191993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256a2da72ac32744983c4ae5b7fffe3
+      internalID: -1535578118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff91b7bdd81e7f48a32e0c0b82b1f39
+      internalID: 648886307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871936ddd1e3c75418af4bcd07ef2d6e
+      internalID: 1155133232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01b3ca1b2426f489021545f6ef0379
+      internalID: -479660936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_36
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354a6f73107cfd45a00b55c6fb45d5b
+      internalID: -754280042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9177786ed5bf534b9aa91bc944a56d1
+      internalID: -613954540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd543ac2de860cb4892e9559aca0c6e0
+      internalID: -1980280864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44241e3ff032984caec33c2f2059c09
+      internalID: 1910010533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_40
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e81becd87e74d4198bb7d6059863fa
+      internalID: 688192632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68630909003c44d8d494f889c63fb4
+      internalID: 1115995869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bff70c4f38be469744e3f6cf77c89
+      internalID: 1572700802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f022d393487ebc24c94bf8fb314877f2
+      internalID: 1950489800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8178ae80f49742bc3b09358354b63
+      internalID: 1563305728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ab403f97040f4da053f87d7130d21
+      internalID: 1866899115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043010e8db3e9d4ab01af135fa85a65
+      internalID: -568261943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d7bc8384b11440b4bede7c1c23003
+      internalID: -420751222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed7498df9568694fba7ad1973671e9d
+      internalID: -415690645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3a1f10293c8d448d2bdcd251318f9
+      internalID: 969845069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65f63dc0fef0644397636f6ce3dcd4a
+      internalID: 822281426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bf5a980d96e24a86e61fa203cfb8b
+      internalID: 698186714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1964302e651d5b4d943cb7cf3653622
+      internalID: -1526195125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae014a6cf9d854ca8a1b3f3932f043
+      internalID: -1655662627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a744807d78c41c74b86252d476f8d2e8
+      internalID: 496257941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75572ed5903a9054cbb0b8a89b0e5cd0
+      internalID: -411260745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709fad29f768154eb932267e999300a
+      internalID: 327585809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e1cf1e29ea244bb78e64348f26dfa
+      internalID: 1708490518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb0626084b53a45a4b047f39e589e7
+      internalID: 687048681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca2862330eb4048b527428b370eb92
+      internalID: 1425264246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcbd4cd7a959e643840877ffbe3a576
+      internalID: 152160009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343698d2dccc070429107ee8e48ca8b2
+      internalID: 903285438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051084e5e97da764b9be947e7432bb1c
+      internalID: 333701646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5334061a9a7594e86839a4506af8e1
+      internalID: -161074317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_64
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be68861c5439648931d9a95eaaf969
+      internalID: -1202815366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e289c363efe6c64468ef98bf3eedbac2
+      internalID: 1179579989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d8ca72d6f3b9498ff33a6cc2f694e
+      internalID: 621756715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4faa88407ba5464f97583f92a6ec478
+      internalID: -815039990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7c4a738e63b84494d0708fb472ec6
+      internalID: 487250718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e847729c5be346aa55477dcea4142
+      internalID: 1904183749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b63a18966e5947b3306874b957e15
+      internalID: -659763775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67979a48a8f928d4487221bb74a4ad39
+      internalID: 1415732903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face115ec74e9954f933f160df776915
+      internalID: -1650569503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcdcf7e71b438418047dd587beb311
+      internalID: -1875199591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1c266c02781e41a9d3f1e33d0c12e
+      internalID: 200877845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c032ee5d655f40bae6dab2bbdff14
+      internalID: 906229114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7442a7efd1c8d34ea798b6e53afdda4
+      internalID: -1036585131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3487d0c272aa4794a857d6a8a47e8
+      internalID: -2030853200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a3694cf5185543a4eb62341a01b9b
+      internalID: -1617061300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_79
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dce933f0d37c242bc6e971103e67f8
+      internalID: 64657202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157abfb112908f49ae915a4361c16ab
+      internalID: -2063569989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c92ca8fe5f044da1857fce17c576e
+      internalID: 921804563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a085e9cfbf02b4d8731a4a1444efe2
+      internalID: -1456907176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256425ff72eaee4a85cd69c5d14b86f
+      internalID: 142601095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_84
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a2a7e7a57de854c8f4975bf2ed42ed
+      internalID: 1261471581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_85
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143ef1daecdb8f49bef9a404bc8bc5d
+      internalID: -416712360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998dcaf7777ce54cab21b17d00b8d84
+      internalID: 459512803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b7b0cc74d9a9478b9b0f641302215
+      internalID: 1016006451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036aef779d7bca4ba55b747da8d9ba7
+      internalID: 1408996561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d480bd69d5cc47b3d7884b18cf425
+      internalID: -1471083662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2887bb5fe2fff5843acac2fdd91eace1
+      internalID: 1019424710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566699d067ce85e42a1a1c99e5df11d3
+      internalID: 380892395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68177ad8e58c3e449e6c13e6d6576be
+      internalID: 1308366025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2366b6cce79e4b83ef23ebbd38558
+      internalID: 1085244356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_94
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cb1a375ab4914586a3f0e918ae200
+      internalID: -792453802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0681b777dcb2240afa64d4de99f524
+      internalID: -1542522231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHair1DarkBlue45x45_96
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a00a0a53aa0b040b112f79de054aea
+      internalID: -1213466651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NewHair1DarkBlue45x45_0: -1330924550
+      NewHair1DarkBlue45x45_1: -1372107142
+      NewHair1DarkBlue45x45_10: 318659120
+      NewHair1DarkBlue45x45_11: 992807136
+      NewHair1DarkBlue45x45_12: -806220644
+      NewHair1DarkBlue45x45_13: -161154594
+      NewHair1DarkBlue45x45_14: 905951563
+      NewHair1DarkBlue45x45_15: -2066057134
+      NewHair1DarkBlue45x45_16: 781707222
+      NewHair1DarkBlue45x45_17: 1131084945
+      NewHair1DarkBlue45x45_18: -885816715
+      NewHair1DarkBlue45x45_19: -761174183
+      NewHair1DarkBlue45x45_2: 1517048974
+      NewHair1DarkBlue45x45_20: 1402629469
+      NewHair1DarkBlue45x45_21: -209381440
+      NewHair1DarkBlue45x45_22: 1798857102
+      NewHair1DarkBlue45x45_23: -897802011
+      NewHair1DarkBlue45x45_24: 404243531
+      NewHair1DarkBlue45x45_25: -1350912123
+      NewHair1DarkBlue45x45_26: -2091878473
+      NewHair1DarkBlue45x45_27: -2078527311
+      NewHair1DarkBlue45x45_28: 586424407
+      NewHair1DarkBlue45x45_29: 599333154
+      NewHair1DarkBlue45x45_3: 1855031694
+      NewHair1DarkBlue45x45_30: 316103232
+      NewHair1DarkBlue45x45_31: -1534191993
+      NewHair1DarkBlue45x45_32: -1535578118
+      NewHair1DarkBlue45x45_33: 648886307
+      NewHair1DarkBlue45x45_34: 1155133232
+      NewHair1DarkBlue45x45_35: -479660936
+      NewHair1DarkBlue45x45_36: -754280042
+      NewHair1DarkBlue45x45_37: -613954540
+      NewHair1DarkBlue45x45_38: -1980280864
+      NewHair1DarkBlue45x45_39: 1910010533
+      NewHair1DarkBlue45x45_4: 111746279
+      NewHair1DarkBlue45x45_40: 688192632
+      NewHair1DarkBlue45x45_41: 1115995869
+      NewHair1DarkBlue45x45_42: 1572700802
+      NewHair1DarkBlue45x45_43: 1950489800
+      NewHair1DarkBlue45x45_44: 1563305728
+      NewHair1DarkBlue45x45_45: 1866899115
+      NewHair1DarkBlue45x45_46: -568261943
+      NewHair1DarkBlue45x45_47: -420751222
+      NewHair1DarkBlue45x45_48: -415690645
+      NewHair1DarkBlue45x45_49: 969845069
+      NewHair1DarkBlue45x45_5: 990173498
+      NewHair1DarkBlue45x45_50: 822281426
+      NewHair1DarkBlue45x45_51: 698186714
+      NewHair1DarkBlue45x45_52: -1526195125
+      NewHair1DarkBlue45x45_53: -1655662627
+      NewHair1DarkBlue45x45_54: 496257941
+      NewHair1DarkBlue45x45_55: -411260745
+      NewHair1DarkBlue45x45_56: 327585809
+      NewHair1DarkBlue45x45_57: 1708490518
+      NewHair1DarkBlue45x45_58: 687048681
+      NewHair1DarkBlue45x45_59: 1425264246
+      NewHair1DarkBlue45x45_6: -1895796859
+      NewHair1DarkBlue45x45_60: 152160009
+      NewHair1DarkBlue45x45_61: 903285438
+      NewHair1DarkBlue45x45_62: 333701646
+      NewHair1DarkBlue45x45_63: -161074317
+      NewHair1DarkBlue45x45_64: -1202815366
+      NewHair1DarkBlue45x45_65: 1179579989
+      NewHair1DarkBlue45x45_66: 621756715
+      NewHair1DarkBlue45x45_67: -815039990
+      NewHair1DarkBlue45x45_68: 487250718
+      NewHair1DarkBlue45x45_69: 1904183749
+      NewHair1DarkBlue45x45_7: -1189137893
+      NewHair1DarkBlue45x45_70: -659763775
+      NewHair1DarkBlue45x45_71: 1415732903
+      NewHair1DarkBlue45x45_72: -1650569503
+      NewHair1DarkBlue45x45_73: -1875199591
+      NewHair1DarkBlue45x45_74: 200877845
+      NewHair1DarkBlue45x45_75: 906229114
+      NewHair1DarkBlue45x45_76: -1036585131
+      NewHair1DarkBlue45x45_77: -2030853200
+      NewHair1DarkBlue45x45_78: -1617061300
+      NewHair1DarkBlue45x45_79: 64657202
+      NewHair1DarkBlue45x45_8: 863365928
+      NewHair1DarkBlue45x45_80: -2063569989
+      NewHair1DarkBlue45x45_81: 921804563
+      NewHair1DarkBlue45x45_82: -1456907176
+      NewHair1DarkBlue45x45_83: 142601095
+      NewHair1DarkBlue45x45_84: 1261471581
+      NewHair1DarkBlue45x45_85: -416712360
+      NewHair1DarkBlue45x45_86: 459512803
+      NewHair1DarkBlue45x45_87: 1016006451
+      NewHair1DarkBlue45x45_88: 1408996561
+      NewHair1DarkBlue45x45_89: -1471083662
+      NewHair1DarkBlue45x45_9: -621851390
+      NewHair1DarkBlue45x45_90: 1019424710
+      NewHair1DarkBlue45x45_91: 380892395
+      NewHair1DarkBlue45x45_92: 1308366025
+      NewHair1DarkBlue45x45_93: 1085244356
+      NewHair1DarkBlue45x45_94: -792453802
+      NewHair1DarkBlue45x45_95: -1542522231
+      NewHair1DarkBlue45x45_96: -1213466651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: c4c138b58133506438dc4710de0895f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair2_Blond 1_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761b5e4c29a8584ea1195b6b57cf71d
+      internalID: 1611275272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2269348ffba5e4d47aea54ab15736c52
+      internalID: 1542544511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3475b0adbb8249242b7484955448869c
+      internalID: 1158417859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5db8d7f4c19c439385ad97903a37c
+      internalID: 1564812549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95334ac278d2045947d31559efcf83
+      internalID: -1497340226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752760de2826d14a80e798e90eecf36
+      internalID: -2025735198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d25856c90e2f43a442a59fe821e01
+      internalID: 991321684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf50d5361ad07c4dbcef2c96574ac58
+      internalID: 385340754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8476043844f27468e0133ba6aa4f88
+      internalID: -965755722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0461106efc1fce4ba03722623cda341
+      internalID: 342591637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb39461bc29504c8039143dbfc86be
+      internalID: 316597857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e57411099cf0498ec03cc2421a467
+      internalID: -1746214941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af934b3abc281248b3e9a0e2446f6c3
+      internalID: -666831175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4160aa67dc4546875bdb103bf68b4
+      internalID: 1652521231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07da5201c94604e80c76cc8b938369
+      internalID: 29214103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72b51e639d73c4fad72302e79003f0
+      internalID: 665411879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1ec2663a509048bf8e8f177d6f492
+      internalID: -641620751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ca649f605d434b898566590eea6b2
+      internalID: 641900511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24818e4a755904e89ae892c3782fff
+      internalID: -1248278572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb006dbaa6d0ea9438026ad3f8fed471
+      internalID: -1786351295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e67a7bafc25f7438e97550c153ddd2
+      internalID: 676099818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62138f8c76e0fb4880f3ab726d5dcb4
+      internalID: -1495023916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0440036acd4681f4ba515b1331a54130
+      internalID: -321028856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372f6d2ca87b09469c46192803a8ed8
+      internalID: -1553368710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a314f84fcd1d44a91d9fbc0c8eeced
+      internalID: -722668877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2792c351e39de46aa8092f379bdf99
+      internalID: 357757455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e854f344c38f84eaf3ca7d2f6531fb
+      internalID: 692768533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd8cec7637cdc4d8f2f2330d42cb7e
+      internalID: 2071906989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22a8f3625b2614baac00b3c5fd4f0d
+      internalID: 52892705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bec4ff723aa6b4bab8becd54b9c772
+      internalID: -1914085536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f218d44ee945b14fa9fa50a598b419b
+      internalID: 42771392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345bd59898d816a45b69b407d6baea2b
+      internalID: -2057808854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d63709ac145a4c92ab2a840e4786e
+      internalID: -779139946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514c1265ec411b4497d27c6dd403d7b
+      internalID: -95187722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874c39433e0fb94ea59962fb5bed5a3
+      internalID: 14862910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fa90f46fae7547847d8b1dfeae510
+      internalID: -1575283974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fec70c02b4d0b4591c170a16ad2d45
+      internalID: -1894841269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046314ff198451b41a43149c968cda9d
+      internalID: -1030347547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ab0d61af746647a6b9f79f9af8dae
+      internalID: -898714201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c26debc195d4440a177288d9f63988
+      internalID: -912701428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce361647040e14089604c959199db8
+      internalID: -695661026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e096e4f5e3568342b8bfe672fd8e7c0
+      internalID: -1546046683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf1fa8c3a6a0644a0b64077bb3b08d
+      internalID: -685215317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec3980b2a17264fb2973bd56e5293d
+      internalID: 657490381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb23bbc4a70f743b4c222dda120dcf
+      internalID: 450143354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f784cc703e90498a64ddf669dc530
+      internalID: 2003914916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b04715d92a4ee4f94d4620f1db3b1c
+      internalID: -1968886580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61392c216061a0341bf6a1fae0bcde6c
+      internalID: 1372939387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea9a39493dad442b409a8e2f559470
+      internalID: -5649324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf60424599fe604a874309c01c4d1c0
+      internalID: -1562515453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b921b0d9df68cf478649c146af021e5
+      internalID: 1473143520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2ca19bf3c7e54db97f526fbcd9207
+      internalID: 1020276526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808a466af00c7f4b97a6f87fdb5f636
+      internalID: -1421865120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43742f8ee0448df468e738a152e87ddd
+      internalID: -2041563663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_54
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af410b4cfd40994d9ad623b355f37e9
+      internalID: -423138314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936e8f50739e4e44b084e6fc6ede834
+      internalID: -184104362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc4397b37467145a62b322bf60945d
+      internalID: -38959269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b94d00ff43ef554da863d404fbebdee
+      internalID: 1398594234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112bd66d426f85429b65c6455669358
+      internalID: -1019881298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0faaf33e87984f981be775fe177f0
+      internalID: 1560467842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868bd8ba4d5dc840b35d028c111cf81
+      internalID: -1267859134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294869ee9e9fe440a881aacac0a9383
+      internalID: 1872289540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa98b46bf4d9444aa8abee7f4d2bd0
+      internalID: -1990515520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda1fc84e8b3af458b1ffbd97d6a5fa
+      internalID: -1108709146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_64
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50bdf6fa3516224aab232b9e54ed5d5
+      internalID: 181284720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_65
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688a4537728c2b478e450776dbb3593
+      internalID: -53277378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641b04c1e451134c8afe89366858a20
+      internalID: 1151811346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d9eb0177317d41825bc441e731bb4
+      internalID: 1164250605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335308aeed9a2b42bd40818909880e8
+      internalID: -2119641922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93f018e88dba34092cbb3711c23ec0
+      internalID: -618962924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b430b816e2e2ed49b819a9dd3e35b8d
+      internalID: -1939545872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_71
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490502754c36e524fb0110bf4dee7ccd
+      internalID: -273545561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc82a9395993149899d2db168dd4af
+      internalID: -888936084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03862e84411c4499cc9ccf7e3f1cc7
+      internalID: -1831799517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a1f4cb2e2f924a9ada809d1afb4d0
+      internalID: -1042468605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_75
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a57beddddf58b4dbdd92c4c6d2bc3d
+      internalID: 2011866556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62d3ddf144f4e43a3af67236f576f0
+      internalID: 2054192132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_77
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd714f4ce89894a8eb071d722e16f3
+      internalID: -1333243966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 107
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b450a7b77fee0428d182fe9394e700
+      internalID: -1655800803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60800fe5d82e5d43a35147def3e1a88
+      internalID: 1731497920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882625a6f920be43b9858a8fa486457
+      internalID: -776547776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91600bc84600bc42a677d15f6767708
+      internalID: -576302293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987e9f9806cf1444829e964d2f3dd56
+      internalID: 800544691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccfcaa6b8a0134988ce972020c6246
+      internalID: 2043459639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_84
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7180b52a823027e478abcb9f5210e486
+      internalID: -2123568123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_85
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562eddf4a029a9c4292e1abb181ce2ec
+      internalID: -410207848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ddaa995579f84898970dc2f8dfb51
+      internalID: 1006860249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_87
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8fd4092081f147b5aeba67d117501
+      internalID: -653429249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c8d00b5090924aad645092682e7fb
+      internalID: 1643342269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd3efa58eea6e4c9b41f1e8c1aee93
+      internalID: 2036010666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26cbdd028715c4c8de203510851f5a
+      internalID: -1987763171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320661f07d0a6546a9f3c3dff0226d1
+      internalID: 1771187322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297021ea8f7cd740b4284c1272f1638
+      internalID: -523183691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735c6882552b30499023c52ccf1a515
+      internalID: -1440826458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_94
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676664417cfb86144ab304da5ce153af
+      internalID: 175184264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair2_Blond 1_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed303d6894c33a2428df045a2c1227c5
+      internalID: -1079282801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hair2_Blond 1_0: 1611275272
+      Hair2_Blond 1_1: 1542544511
+      Hair2_Blond 1_10: 316597857
+      Hair2_Blond 1_11: -1746214941
+      Hair2_Blond 1_12: -666831175
+      Hair2_Blond 1_13: 1652521231
+      Hair2_Blond 1_14: 29214103
+      Hair2_Blond 1_15: 665411879
+      Hair2_Blond 1_16: -641620751
+      Hair2_Blond 1_17: 641900511
+      Hair2_Blond 1_18: -1248278572
+      Hair2_Blond 1_19: -1786351295
+      Hair2_Blond 1_2: 1158417859
+      Hair2_Blond 1_20: 676099818
+      Hair2_Blond 1_21: -1495023916
+      Hair2_Blond 1_22: -321028856
+      Hair2_Blond 1_23: -1553368710
+      Hair2_Blond 1_24: -722668877
+      Hair2_Blond 1_25: 357757455
+      Hair2_Blond 1_26: 692768533
+      Hair2_Blond 1_27: 2071906989
+      Hair2_Blond 1_28: 52892705
+      Hair2_Blond 1_29: -1914085536
+      Hair2_Blond 1_3: 1564812549
+      Hair2_Blond 1_30: 42771392
+      Hair2_Blond 1_31: -2057808854
+      Hair2_Blond 1_32: -779139946
+      Hair2_Blond 1_33: -95187722
+      Hair2_Blond 1_34: 14862910
+      Hair2_Blond 1_35: -1575283974
+      Hair2_Blond 1_36: -1894841269
+      Hair2_Blond 1_37: -1030347547
+      Hair2_Blond 1_38: -898714201
+      Hair2_Blond 1_39: -912701428
+      Hair2_Blond 1_4: -1497340226
+      Hair2_Blond 1_40: -695661026
+      Hair2_Blond 1_41: -1546046683
+      Hair2_Blond 1_42: -685215317
+      Hair2_Blond 1_43: 657490381
+      Hair2_Blond 1_44: 450143354
+      Hair2_Blond 1_45: 2003914916
+      Hair2_Blond 1_46: -1968886580
+      Hair2_Blond 1_47: 1372939387
+      Hair2_Blond 1_48: -5649324
+      Hair2_Blond 1_49: -1562515453
+      Hair2_Blond 1_5: -2025735198
+      Hair2_Blond 1_50: 1473143520
+      Hair2_Blond 1_51: 1020276526
+      Hair2_Blond 1_52: -1421865120
+      Hair2_Blond 1_53: -2041563663
+      Hair2_Blond 1_54: -423138314
+      Hair2_Blond 1_55: -184104362
+      Hair2_Blond 1_56: -38959269
+      Hair2_Blond 1_57: 1398594234
+      Hair2_Blond 1_58: -1019881298
+      Hair2_Blond 1_59: 1560467842
+      Hair2_Blond 1_6: 991321684
+      Hair2_Blond 1_60: -1267859134
+      Hair2_Blond 1_61: 1872289540
+      Hair2_Blond 1_62: -1990515520
+      Hair2_Blond 1_63: -1108709146
+      Hair2_Blond 1_64: 181284720
+      Hair2_Blond 1_65: -53277378
+      Hair2_Blond 1_66: 1151811346
+      Hair2_Blond 1_67: 1164250605
+      Hair2_Blond 1_68: -2119641922
+      Hair2_Blond 1_69: -618962924
+      Hair2_Blond 1_7: 385340754
+      Hair2_Blond 1_70: -1939545872
+      Hair2_Blond 1_71: -273545561
+      Hair2_Blond 1_72: -888936084
+      Hair2_Blond 1_73: -1831799517
+      Hair2_Blond 1_74: -1042468605
+      Hair2_Blond 1_75: 2011866556
+      Hair2_Blond 1_76: 2054192132
+      Hair2_Blond 1_77: -1333243966
+      Hair2_Blond 1_78: -1655800803
+      Hair2_Blond 1_79: 1731497920
+      Hair2_Blond 1_8: -965755722
+      Hair2_Blond 1_80: -776547776
+      Hair2_Blond 1_81: -576302293
+      Hair2_Blond 1_82: 800544691
+      Hair2_Blond 1_83: 2043459639
+      Hair2_Blond 1_84: -2123568123
+      Hair2_Blond 1_85: -410207848
+      Hair2_Blond 1_86: 1006860249
+      Hair2_Blond 1_87: -653429249
+      Hair2_Blond 1_88: 1643342269
+      Hair2_Blond 1_89: 2036010666
+      Hair2_Blond 1_9: 342591637
+      Hair2_Blond 1_90: -1987763171
+      Hair2_Blond 1_91: 1771187322
+      Hair2_Blond 1_92: -523183691
+      Hair2_Blond 1_93: -1440826458
+      Hair2_Blond 1_94: 175184264
+      Hair2_Blond 1_95: -1079282801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

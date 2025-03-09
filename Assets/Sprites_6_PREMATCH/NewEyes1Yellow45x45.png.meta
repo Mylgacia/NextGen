@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: f658a35aac6ca2b4e8db5b328778ce7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c934d8f00a8e45809fea4eafada01
+      internalID: 2021078260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce0f3a65a36534a9a69dbf30921aa9
+      internalID: 1160298729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d27318aee0836468c93db60a5ecb87
+      internalID: -176477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1f2800d0a7bd439feffe45618ff0e
+      internalID: 1623315937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a72a574284956640adf9126e68870ca
+      internalID: -1782958909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122f16ce30a98d4caa2a5dc1e19591e
+      internalID: -1550655441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76702d84613b424e9b6852952bd12d3
+      internalID: 268460436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f674fe859afff54d832bccf3a94f4ce
+      internalID: 532861663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725623bbc576088479f67303688a1b7c
+      internalID: 815796858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 467
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330b782d398c1d44892f8705d8f98cd
+      internalID: -832605238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2bcd4467c75ea4086fc6ec175b09e8
+      internalID: -629843301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038c367d3c160246a5db0ccc14f40c1
+      internalID: 358399786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31907789c79aa4b809768e79eb9fb5
+      internalID: 1492625492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b464864bef9c914b8c3ab5f76be22b4
+      internalID: 884658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c43ef168839345add1ed28eaf6949
+      internalID: 1618839989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 422
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf51eaaf48f0e614982baa158541a217
+      internalID: 1155518581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f806a6267b88341a313161109e777f
+      internalID: 347026589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c2924d99f0264e9a0c1fd86a328a1
+      internalID: -1109525314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b5ec2fc8c3198428b2fb74ea1100e6
+      internalID: -217821739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0412b3dd6492d44eadfe065ce91b268
+      internalID: 875479313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796ab70ac004b44a806af69390ea5c3
+      internalID: -19714492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96eece8a39ce142a7839ba3c4010d0
+      internalID: -36539563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4be0e6503f3f844a695d919a291d3b
+      internalID: 1837916494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e430fa7679b0446afac503d2d3d0d6
+      internalID: -1174333960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f90274cad37e24f9a28ebc6f3077cf
+      internalID: 928702442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73bc0c5abeba542b770c4a7df77307
+      internalID: 1751385864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762586f4d5e011439619d5bf3ef41b3
+      internalID: -866050483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7433f68f769ba6c418e50077d4fd924b
+      internalID: 769489060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba56a77f41394b4dba6cc5b6a393efd
+      internalID: -423646796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a019f6b97d2d9247888d80fb51c1cf8
+      internalID: -921212228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6ff52767e2e147854b159265771df
+      internalID: -686772948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefea1cca58271e41b3d19c7dca87bc0
+      internalID: -2091296316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee8ab2e1d253d4ea84fe0979549192
+      internalID: -1222489004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0dbbdc41bda24d85dc8813929da2c
+      internalID: -1961339127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac59216be7159844ea6c5f757daf9b9b
+      internalID: 547969005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973c562fef991b488fae4ef48b46f95
+      internalID: 989007728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f65426a66d2a4c8ed0686dbc6ca22
+      internalID: 1406401102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0477379301aca34a97adf89adf0b113
+      internalID: -376961662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 332
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eefad8808b844488057d9496ff0f9d
+      internalID: -1291953229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55192c2b117bca341ae2b6686ad6753b
+      internalID: -1428396597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e12d6e5eb0c6234ca3853cf88a316ec
+      internalID: -1483416592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfbc2acd4eca334a898ac8461d55b4d
+      internalID: -804961236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da4e87ccde07c4baac22b98ee30072
+      internalID: 139721323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881ae40ff276ab4cb789dab878d69b8
+      internalID: 1133644074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 287
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0f451490ba7c42ae5ca4ae0c2a0af
+      internalID: -2139783693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d017e8d96ddaea4a9d22900bfcdf25a
+      internalID: -289466211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05559283259c880498558a504cf02be2
+      internalID: -2128099853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca382719de0d3946a7d9a971209f1d0
+      internalID: -309315412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9ed23d1bd910845bd946189e6df67f
+      internalID: -929576489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cac0c589e4cb49bbad50ec63068d2
+      internalID: -419236260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc66e18c257c40e45b5b8ad43b16b73f
+      internalID: -16178449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25705f2117de2f94ca7aaa9610abac4b
+      internalID: -1905380714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d276d1377ccc3c4db8ef6c090f8364e
+      internalID: 1960081626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00db53874fc52d4a8b77b076202c5f4
+      internalID: -1749208723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fc283085feec4f85b79d729cec3db
+      internalID: -697335802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a3269794693942805b1aecf3fd374
+      internalID: 1946274427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811bae79ae028b244b117ecd34ececa2
+      internalID: 1052928709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a4f7304da88f4d895610da14ce8c2
+      internalID: 1503126529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838e43ffa4de39498e363e625ed15e2
+      internalID: 1358739412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861696908ada7664b8e3b2dae632c7df
+      internalID: -781780223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0dc5390d9adf54e995fa4cf557e901
+      internalID: 1880970978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499bdbe3af9fcf14f9838ae15e2503e9
+      internalID: 385789632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca2bbb6417ee148b99069fc02a8e9b
+      internalID: -352720744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195792f9d940e8c44b557c143a633958
+      internalID: 1692586439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_64
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 197
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794df2dd6f53dc4fbf26d87fdc3f85e
+      internalID: 430787150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe11d9bfe3071489bfe29be326dcb0
+      internalID: 1558077033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf28650c49bca45935b718c2ec1413
+      internalID: 1258806990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65c3a962151b84682d226fccd9c1a1
+      internalID: 555476469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980f20206660674f8d7979afbd3f349
+      internalID: 1522781950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567e1e8b12c49c49b7325e2dfc893ad
+      internalID: 793348488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df2de8690ea5c4c88f4d80f9a94c3c
+      internalID: 1306536690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ea3ea82e55ca46bcada83e4ff2c3c
+      internalID: 996414094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c2ac587512634e96cf285258a169b
+      internalID: 1263999775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a17eaed769ca54dbb1698ab2fb4151
+      internalID: 588514762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed247a518299154b9743fa491aa22dd
+      internalID: 784198633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c58b1a25aa7ce4a9e9e39e3035ac7d
+      internalID: -664372663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 107
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf0d330fbc37545925e93b0e603257
+      internalID: 377007945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38feccb72b04b244b978be743e35b485
+      internalID: 1680284641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40afded5044926e4baa94c26f0f2244f
+      internalID: 796509324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_79
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a306783d4f3ce4890a2d26803064c5
+      internalID: 1507156102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906aaf7aeaa62034fa8bc76ccd9066c4
+      internalID: 680080172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c88809d0b55945b513f54ce6d65ac
+      internalID: -2109071081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc2078d7ace7b4886c4471922aee12
+      internalID: -201849969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16834c6dd5213b7429ac2e5fbf97595b
+      internalID: -1114147967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_84
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca120f6c777260a4d9f792c6cec5667c
+      internalID: -601314106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_85
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8ca4ff46fd66f46a8e607aab369f23
+      internalID: -1158589175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewEyes1Yellow45x45_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 62
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b32d11e7122a446978db3a6a60bb26
+      internalID: 1630499318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NewEyes1Yellow45x45_0: 2021078260
+      NewEyes1Yellow45x45_1: 1160298729
+      NewEyes1Yellow45x45_10: -629843301
+      NewEyes1Yellow45x45_11: 358399786
+      NewEyes1Yellow45x45_12: 1492625492
+      NewEyes1Yellow45x45_13: 884658376
+      NewEyes1Yellow45x45_14: 1618839989
+      NewEyes1Yellow45x45_15: 1155518581
+      NewEyes1Yellow45x45_16: 347026589
+      NewEyes1Yellow45x45_17: -1109525314
+      NewEyes1Yellow45x45_18: -217821739
+      NewEyes1Yellow45x45_19: 875479313
+      NewEyes1Yellow45x45_2: -176477544
+      NewEyes1Yellow45x45_20: -19714492
+      NewEyes1Yellow45x45_21: -36539563
+      NewEyes1Yellow45x45_22: 1837916494
+      NewEyes1Yellow45x45_23: -1174333960
+      NewEyes1Yellow45x45_24: 928702442
+      NewEyes1Yellow45x45_25: 1751385864
+      NewEyes1Yellow45x45_26: -866050483
+      NewEyes1Yellow45x45_27: 769489060
+      NewEyes1Yellow45x45_28: -423646796
+      NewEyes1Yellow45x45_29: -921212228
+      NewEyes1Yellow45x45_3: 1623315937
+      NewEyes1Yellow45x45_30: -686772948
+      NewEyes1Yellow45x45_31: -2091296316
+      NewEyes1Yellow45x45_32: -1222489004
+      NewEyes1Yellow45x45_33: -1961339127
+      NewEyes1Yellow45x45_34: 547969005
+      NewEyes1Yellow45x45_35: 989007728
+      NewEyes1Yellow45x45_36: 1406401102
+      NewEyes1Yellow45x45_37: -376961662
+      NewEyes1Yellow45x45_38: -1291953229
+      NewEyes1Yellow45x45_39: -1428396597
+      NewEyes1Yellow45x45_4: -1782958909
+      NewEyes1Yellow45x45_40: -1483416592
+      NewEyes1Yellow45x45_41: -804961236
+      NewEyes1Yellow45x45_42: 139721323
+      NewEyes1Yellow45x45_43: 1133644074
+      NewEyes1Yellow45x45_44: -2139783693
+      NewEyes1Yellow45x45_45: -289466211
+      NewEyes1Yellow45x45_46: -2128099853
+      NewEyes1Yellow45x45_47: -309315412
+      NewEyes1Yellow45x45_48: -929576489
+      NewEyes1Yellow45x45_49: -419236260
+      NewEyes1Yellow45x45_5: -1550655441
+      NewEyes1Yellow45x45_50: -16178449
+      NewEyes1Yellow45x45_51: -1905380714
+      NewEyes1Yellow45x45_52: 1960081626
+      NewEyes1Yellow45x45_53: -1749208723
+      NewEyes1Yellow45x45_54: -697335802
+      NewEyes1Yellow45x45_55: 1946274427
+      NewEyes1Yellow45x45_56: 1052928709
+      NewEyes1Yellow45x45_57: 1503126529
+      NewEyes1Yellow45x45_58: 1358739412
+      NewEyes1Yellow45x45_59: -781780223
+      NewEyes1Yellow45x45_6: 268460436
+      NewEyes1Yellow45x45_60: 1880970978
+      NewEyes1Yellow45x45_61: 385789632
+      NewEyes1Yellow45x45_62: -352720744
+      NewEyes1Yellow45x45_63: 1692586439
+      NewEyes1Yellow45x45_64: 430787150
+      NewEyes1Yellow45x45_65: 1558077033
+      NewEyes1Yellow45x45_66: 1258806990
+      NewEyes1Yellow45x45_67: 555476469
+      NewEyes1Yellow45x45_68: 1522781950
+      NewEyes1Yellow45x45_69: 793348488
+      NewEyes1Yellow45x45_7: 532861663
+      NewEyes1Yellow45x45_70: 1306536690
+      NewEyes1Yellow45x45_71: 996414094
+      NewEyes1Yellow45x45_72: 1263999775
+      NewEyes1Yellow45x45_73: 588514762
+      NewEyes1Yellow45x45_74: 784198633
+      NewEyes1Yellow45x45_75: -664372663
+      NewEyes1Yellow45x45_76: 377007945
+      NewEyes1Yellow45x45_77: 1680284641
+      NewEyes1Yellow45x45_78: 796509324
+      NewEyes1Yellow45x45_79: 1507156102
+      NewEyes1Yellow45x45_8: 815796858
+      NewEyes1Yellow45x45_80: 680080172
+      NewEyes1Yellow45x45_81: -2109071081
+      NewEyes1Yellow45x45_82: -201849969
+      NewEyes1Yellow45x45_83: -1114147967
+      NewEyes1Yellow45x45_84: -601314106
+      NewEyes1Yellow45x45_85: -1158589175
+      NewEyes1Yellow45x45_86: 1630499318
+      NewEyes1Yellow45x45_9: -832605238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

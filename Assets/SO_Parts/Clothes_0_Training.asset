@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257ac5b582d04e04faedf0927cd08377, type: 3}
+  m_Name: Clothes_0_Training
+  m_EditorClassIdentifier: 
+  bodyPartName: Training
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 37539a2bffce0fb4694bc1b5197dd01d, type: 2}
+  - {fileID: 7400000, guid: 433af31ce3f77014296a26ed85d84ba2, type: 2}
+  - {fileID: 7400000, guid: 3ec25734f386b204bba21a3cb5603c39, type: 2}
+  - {fileID: 7400000, guid: b81ccb9e797a4cc49b08252848af5a6a, type: 2}
+  - {fileID: 7400000, guid: b440a3d588f8025498756aca38357055, type: 2}
+  - {fileID: 7400000, guid: 063b606fae39ff74aacb8926436cb241, type: 2}
+  - {fileID: 7400000, guid: 53be4fe0bb0847647ab5d35927b2b71b, type: 2}
+  - {fileID: 7400000, guid: 151665d566843b04bb317cff8bbc7b18, type: 2}
+  - {fileID: 7400000, guid: c13602b7a3efa274ab53c5de79ba4498, type: 2}
+  - {fileID: 7400000, guid: c06fe20198be965478821b76f02719c1, type: 2}
+  - {fileID: 7400000, guid: 6c9e924869389b341909d87f5d321022, type: 2}
+  - {fileID: 7400000, guid: 1abd4656c67955941805d090a073d0e5, type: 2}
+  - {fileID: 7400000, guid: b8c0f59bddfd707408cb912b26ed2eb9, type: 2}
+  - {fileID: 7400000, guid: 82dabe72297de2a45adacbf5e6de9853, type: 2}
+  - {fileID: 7400000, guid: 9e0dc709e860d50459016c043fd4e520, type: 2}
+  - {fileID: 7400000, guid: 9f1669148f3f24449bf74cde47075fe0, type: 2}
+  - {fileID: 7400000, guid: f69bbc55c862a9248803cc278c3677a4, type: 2}
+  - {fileID: 7400000, guid: 9be4cec2b06f83b4a9dcb81757dee604, type: 2}
+  - {fileID: 7400000, guid: 29f1d265c536f0144b4608a26c56571a, type: 2}

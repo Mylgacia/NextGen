@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257ac5b582d04e04faedf0927cd08377, type: 3}
+  m_Name: Eyes_1_Yellow
+  m_EditorClassIdentifier: 
+  bodyPartName: Eyes_Yellow
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: e8892d546c8fdfc4d85bf9ed59629fba, type: 2}
+  - {fileID: 7400000, guid: d9a99cd6532a3584a905bd409206fe9c, type: 2}
+  - {fileID: 7400000, guid: 7b58562c18205c94a8649ce7364a0f25, type: 2}
+  - {fileID: 7400000, guid: b8fd150e3998f50409a5d1fe7ab06165, type: 2}
+  - {fileID: 7400000, guid: 480633f0a3dcc6e4eb83698a16576002, type: 2}
+  - {fileID: 7400000, guid: b4bfe24da87d8e34f8b5199b6aef8998, type: 2}
+  - {fileID: 7400000, guid: 79af3b64499b6de41bd863825a68b673, type: 2}
+  - {fileID: 7400000, guid: 827ac6f1a7b41cc4b9532cfbf786f08f, type: 2}
+  - {fileID: 7400000, guid: 95456d07459dc5c4abc2ca7b7e4af0fc, type: 2}
+  - {fileID: 7400000, guid: c8d3b84724530144389d9baf0229d06f, type: 2}
+  - {fileID: 7400000, guid: 1376380025cdf2f4990a9ab4995723b1, type: 2}
+  - {fileID: 7400000, guid: da948ec3cd305f64e8246f6004a03ba9, type: 2}
+  - {fileID: 7400000, guid: 005ffa037b2eb4841a9bb6cda051377a, type: 2}
+  - {fileID: 7400000, guid: 2cbec772dc23ce5449532cb08df999eb, type: 2}
+  - {fileID: 7400000, guid: 3bfb71b23d9f23648b3ae13ef30ae033, type: 2}
+  - {fileID: 7400000, guid: c81c78ad3b40e7847ab18f2428dce9b1, type: 2}
+  - {fileID: 7400000, guid: 272cb6ffbf88b1740b663448e8dcc1ef, type: 2}
+  - {fileID: 7400000, guid: 42bc1816e3eb40247bca5decdc557f74, type: 2}
+  - {fileID: 7400000, guid: 12794354b135abf43b8432f1da6100f2, type: 2}

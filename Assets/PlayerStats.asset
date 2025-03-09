@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893bc65d6a8a4634d8368a16d14bd29d, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  elementIcon: {fileID: 91342475, guid: 7a716fa1d22f4fd4bb80aef923df8a58, type: 3}
+  miEnum: 1
+  maxEnergy: 500
+  shoot: 4
+  tackle: 2
+  dribble: 4
+  cut: 2
+  pass: 2
+  physical: 2
+  luck: 25
+  charisma: 1
+  stats:
+  - {fileID: 2137388480, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1943056124, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: 685873761, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1998902785, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1695303378, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: 1908815985, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  moves:
+  - move: {fileID: 11400000, guid: 1a55963264df34b4d9be56e01e82fe22, type: 2}
+    level: 4
+    skillMove: 0
+    miEnum: 1
+  - move: {fileID: 11400000, guid: dda3776945c292b49948aea637686d39, type: 2}
+    level: 4
+    skillMove: 1
+    miEnum: 1
+  - move: {fileID: 11400000, guid: 9a08333c75ff7a341a18e3aabbb55f57, type: 2}
+    level: 4
+    skillMove: 2
+    miEnum: 1
+  currentTeam: 0

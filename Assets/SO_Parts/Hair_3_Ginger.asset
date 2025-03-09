@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257ac5b582d04e04faedf0927cd08377, type: 3}
+  m_Name: Hair_3_Ginger
+  m_EditorClassIdentifier: 
+  bodyPartName: Ginger_Hair
+  bodyPartAnimationID: 3
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: a759405177407644c91875f158c29f0d, type: 2}
+  - {fileID: 7400000, guid: 419cebb086c7f574dafdbc4c50450edb, type: 2}
+  - {fileID: 7400000, guid: e682ef0965093dd4c8a772963b5e990a, type: 2}
+  - {fileID: 7400000, guid: f28ae018ff1591b4a9de7a369cfadbc0, type: 2}
+  - {fileID: 7400000, guid: 5b176b8078e4ebc42a51df1ebe0cd95b, type: 2}
+  - {fileID: 7400000, guid: 427d1ac66b6cf4b4180e51fa67ef7f9b, type: 2}
+  - {fileID: 7400000, guid: e852d259f7657cf47804f4977daf4b59, type: 2}
+  - {fileID: 7400000, guid: 57fb631fc1069294dbab074b172b8896, type: 2}
+  - {fileID: 7400000, guid: f40d4526fc9fe5a4c874118d997bbd34, type: 2}
+  - {fileID: 7400000, guid: d2274653de5bfa148b5a61138f047e8d, type: 2}
+  - {fileID: 7400000, guid: 1faf1aef82ff8634cbc5c70b3b3ac0bf, type: 2}
+  - {fileID: 7400000, guid: 36205b0296fcb0349bb4377844a37b86, type: 2}
+  - {fileID: 7400000, guid: 285187932fc564841b2512bbc0f90dd0, type: 2}
+  - {fileID: 7400000, guid: 82407d2b4830b6c4ab45999f56606056, type: 2}
+  - {fileID: 7400000, guid: 605fdcc432d70c948b30430124dca052, type: 2}
+  - {fileID: 7400000, guid: dea7e720e24960141a8823a5e18ee615, type: 2}
+  - {fileID: 7400000, guid: 858fac85cd3b1e3458b93cfb14709f36, type: 2}
+  - {fileID: 7400000, guid: 3c9e4bb8d5e7553498f1edf9e2925dcf, type: 2}
+  - {fileID: 7400000, guid: 796374ecd1143f1488c63a238c33d4f5, type: 2}

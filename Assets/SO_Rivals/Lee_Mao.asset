@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b42412603a0fbb4aa8e320fd247dea7, type: 3}
+  m_Name: Lee_Mao
+  m_EditorClassIdentifier: 
+  hair: {fileID: -1786344087, guid: 3bbb9379c15fda44abf59e7297757193, type: 3}
+  eyes: {fileID: 110485053, guid: 93010d79b40b07341b4c9b5694e743fc, type: 3}
+  skin: {fileID: 651703274, guid: 17a3578994156a84fbcc57f0ee6703b2, type: 3}
+  type1: 4
+  elementIcon: {fileID: -1748041936, guid: 7a716fa1d22f4fd4bb80aef923df8a58, type: 3}
+  name: Lee Mao
+  shot: 4
+  tackle: 3
+  drible: 2
+  cut: 4
+  pass: 2
+  physical: 2
+  stats:
+  - {fileID: 2137388480, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1943056124, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: 685873761, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1998902785, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: -1695303378, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  - {fileID: 1908815985, guid: 8e1246543c8a1f4458b8c8b924eb7f77, type: 3}
+  learnableMoves:
+  - move: {fileID: 0}
+    level: 0
